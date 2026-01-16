@@ -1,4 +1,4 @@
-# Présentation PowerPoint - Principes Fondamentaux de l'Architecture Cybersécurité
+# Présentation PowerPoint - Principes Fondamentaux de l'Architecture sécurité
 
 ---
 
